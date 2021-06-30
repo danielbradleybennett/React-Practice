@@ -1,0 +1,35 @@
+.Button{
+  display: flex !important;
+  
+}
+
+.note_world {
+  display: flex !important;
+}
+
+Button {
+  background-color: black !important;
+  color: white !important;
+
+}
+.button__spells{
+  margin-left: 5px;
+}
+.button__monsters{
+  margin-left: 5px;
+}
+.button__weapons{
+  margin-left: 5px;
+}
+.button__items{
+  margin-left: 5px;
+}
+.button__armor{
+  margin-left: 5px;
+}
+.button__world{
+  margin-left: 5px;
+}
+.button__notes{
+  margin-left: 5px;
+}
